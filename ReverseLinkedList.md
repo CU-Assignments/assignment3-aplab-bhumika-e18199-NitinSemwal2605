@@ -1,3 +1,4 @@
+```
 class Solution {
 public:
     ListNode* reverse(ListNode* head) {
@@ -19,6 +20,6 @@ public:
     ListNode* reverseList(ListNode* head) { return reverse(head); }
 };
 
-
+```
 Image :
 ![Uploading image.png…]()
